@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarafaraji-hub
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me just by sending a message :)
 
